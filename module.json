@@ -1,0 +1,13 @@
+{
+    "name": "TechlifyFile",
+    "alias": "techlifyfile",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\TechlifyFile\\Providers\\TechlifyFileServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

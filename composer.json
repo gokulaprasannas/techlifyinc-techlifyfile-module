@@ -1,0 +1,24 @@
+{
+    "name": "techlifyinc/techlifyfile",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Gokul",
+            "email": "gokula@techlify.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\TechlifyFile\\Providers\\TechlifyFileServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\TechlifyFile\\": ""
+        }
+    }
+}
